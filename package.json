@@ -1,0 +1,14 @@
+{
+  "name": "puppetteer-web-scraping-free-assistance",
+  "version": "1.0.0",
+  "description": "Project for send a message to Free Assistance",
+  "main": "index.js",
+  "author": "James Adams",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.1"
+  }
+}
